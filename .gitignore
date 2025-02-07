@@ -1,7 +1,8 @@
+venv/
 build/
 diff_surfel_rasterization.egg-info/
 dist/
-*.so
-.vscode
+pkg/
+release/
 **__pycache__**
 *.pyc
